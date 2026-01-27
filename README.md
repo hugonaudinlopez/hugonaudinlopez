@@ -15,6 +15,17 @@ Below you'll find a selection of my featured projects. 🚀
 
 ## 🌟 Featured Projects  
 
+🔹 **C++ Path Tracing Engine & Global Illumination**
+
+Implemented a high-performance **physically-based rendering (PBR) engine** from scratch, simulating realistic light transport.
+The project solves the **Rendering Equation** using **Monte Carlo integration** and includes advanced stochastic sampling techniques such as **Next Event Estimation (NEE)** and **Russian Roulette** for variance reduction.
+It features **volumetric rendering** (participating media), refractive materials (dielectrics), and hardware-accelerated geometry intersection.
+
+**Technologies:** C++, Intel Embree 4, OpenMP (Parallel Computing), Assimp, Eigen, CMake.
+
+🔗 [GitHub Repository](https://github.com/MiguelAngelLuquin/RayTracingEngine)
+
+
 🔹 **Real Estate Risk Estimation with Machine Learning (Lang: 🇪🇸)**  
 
 📘 **Bachelor Thesis – Mathematics**  
